@@ -1,0 +1,12 @@
+# Ignorar configuración personal
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+
+# Ignorar plugins (cada quien instala los suyos)
+.obsidian/plugins/*
+
+# Solo mantener snippets
+!.obsidian/snippets/
+
+/Página de inicio.md

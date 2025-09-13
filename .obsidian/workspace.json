@@ -161,12 +161,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +182,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb1af3522046d946",
+  "active": "fd6cea6df8545682",
   "lastOpenFiles": [
+    "Nuevo Archivo WinRAR.rar",
     "Untitled Kanban.md",
     "Página de inicio.md",
     "Untitled Kanban 1.md",
@@ -215,7 +215,6 @@
     "Organización y documentación Inveria/Revisión y mejora continua (KPIs) 26cef3cec24180bc8b6dc343c6e2ef22.md",
     "Organización y documentación Inveria/Lista de tareas 26cef3cec24180f79f89d885268c4102.md",
     "Organización y documentación Inveria/Lista de tareas 26cef3cec2418055b088cba7e323f2c2.md",
-    "Organización y documentación Inveria/KPIs de videos y redes sociales 26cef3cec24180bbaf8cd5210f0c229e.md",
     "Organización y documentación Inveria/KPIs de videos y redes sociales 26cef3cec24180bbaf8cd5210f0c229e",
     "Organización y documentación Inveria/KPIs de tienda online 26cef3cec2418057a225ca6428b1b2e7",
     "Organización y documentación Inveria/KPIs de gestión 26cef3cec24180f09725f816152821fb",
