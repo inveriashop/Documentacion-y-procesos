@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video 1.md",
+                "file": "Página de inicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video 1"
+              "title": "Página de inicio"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video 1.md",
+                "file": "Página de inicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Video 1"
+              "title": "Enlaces entrantes de Página de inicio"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video 1.md",
+                "file": "Página de inicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Video 1"
+              "title": "Enlaces salientes de Página de inicio"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video 1.md",
+                "file": "Página de inicio.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Video 1"
+              "title": "Esquema de Página de inicio"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +186,10 @@
   "active": "fb1af3522046d946",
   "lastOpenFiles": [
     "Untitled Kanban.md",
+    "Página de inicio.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban 2.md",
     "Sin título.canvas",
-    "Video 1.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Tutorial de Edición en Adobe Premiere 26cef3cec24180e09a12f0eedd0c448b.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Sin título 26cef3cec24180d88bd0d587d52c95d0.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Entrevista con CEO - Visión 2026 26cef3cec24180c79beae8379dddd180.md",
@@ -216,7 +218,6 @@
     "Organización y documentación Inveria/KPIs de videos y redes sociales 26cef3cec24180bbaf8cd5210f0c229e.md",
     "Organización y documentación Inveria/KPIs de videos y redes sociales 26cef3cec24180bbaf8cd5210f0c229e",
     "Organización y documentación Inveria/KPIs de tienda online 26cef3cec2418057a225ca6428b1b2e7",
-    "Organización y documentación Inveria/KPIs de tienda online 26cef3cec2418057a225ca6428b1b2e7.md",
     "Organización y documentación Inveria/KPIs de gestión 26cef3cec24180f09725f816152821fb",
     "Organización y documentación Inveria",
     "80280615-6f8f-40ab-8ddf-34b4ed87ae05_ExportBlock-fc587bfd-c155-4351-bc20-bb87966fa57a/ExportBlock-fc587bfd-c155-4351-bc20-bb87966fa57a-Part-1.zip",
