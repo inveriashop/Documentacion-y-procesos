@@ -1,0 +1,130 @@
+# Documentación y gestión de procesos
+
+Titular: Angie Hdez L.
+Etiquetas: Proceso
+
+## 🎯 Objetivo
+
+Centralizar la documentación y gestión de todos los procesos de la tienda online en un espacio de Notion, accesible y organizado por áreas, que permita tanto **gestionar tareas** como **consultar procesos** en cualquier momento.
+
+---
+
+## **📍** Área
+
+Gestión
+
+---
+
+## 👤 **Responsable**
+
+Analista de Procesos
+
+---
+
+## 🔧 **Herramientas necesarias**
+
+Notion y Drive
+
+---
+
+## 🔃 Explicación **del proceso**
+
+### 🏗️ Estructura en Notion (Wiki)
+
+1. **Página principal** → “ 🛒 Organización y documentación Inveria”
+    - Un dashboard con accesos rápidos a cada área.
+    - Un espacio inferior con la biblioteca de procesos documentados.
+2. **Secciones principales (3 áreas):**
+    - **Gestión**
+        - Ej: documentación, contabilidad, devoluciones, fidelización, encuestas, KPIs.
+    - **Videos y Redes**
+        - Ej: guiones, creación de videos, edición, creación de imágenes IA, almacenamiento audiovisual.
+    - **Página Web**
+        - Ej: atención al cliente (chatbot), gestión de la web, optimización SEO, mantenimiento técnico.
+3. **Formatos de trabajo en cada sección:**
+    - **Listas de tareas (Kanban o To-do list)** → quién, qué, cuándo.
+    - Seguimiento del área de trabajo → cada área tiene con su área de seguimiento, con objetivos y KPIs.
+    - **Notas rápidas** → ideas pendientes, mejoras futuras.
+
+---
+
+### 📂 [Plantilla de documentación para cada proceso](Plantilla%20de%20procesos%2026cef3cec24180c5bc48e0a2aec508a1.md)
+
+La documentación de cada proceso debe seguir esta estructura estándar:
+
+**Título del proceso** (ej. Proceso de creación de guiones)
+
+- **Objetivo:** qué busca lograr.
+- **Área:** Gestión / Videos y Redes / Página Web.
+- **Responsable:** rol encargado.
+- **Herramientas necesarias:** Notion, Drive, Canva, etc.
+- **Pasos o explicación del proceso (checklist o tabla):**
+    1. Paso 1…
+    2. Paso 2…
+    3. Paso 3…
+- **KPIs / Métricas de control:** cómo sabemos que funciona. (Tabla)
+    - Se debe definir en la documentación del proceso una tabla con el nombre, descripción y medida de cada KPI.
+    - Los KPIs de cada proceso tendrán un seguimiento en la pagina principal dentro de su sección correspondiente, este seguimiento se hará mediante una pagina de KPIs, esta pagina tendrá por cada proceso lo siguiente:
+        - Nombre del proceso.
+        - [Pagina para seguimiento](Plantilla%20seguimiento%20y%20evaluaci%C3%B3n%20de%20KPIs%2026cef3cec24180b1a0bdd858ab6fc91e.md), en la cual podemos encontrar:
+            - Tabla con el nombre, descripción y meta de cada KPI.
+            - Plan de mejora en el proceso.
+            - Notas sobre el proceso, qué va bien, qué va mal.
+        
+        - Recordatorio de día de evaluación.
+- **Fecha de última actualización:** DD/MM/AAAA.
+- **Versión:** v1.0, v1.1, etc.
+
+---
+
+### 🔄 Flujo del proceso 0 en sí
+
+1. **Creación y mantenimiento del espacio en Notion**
+    - Configurar, mantener y usar el wiki con las 3 secciones + base de procesos documentados.
+2. **Estandarización**
+    - Definir y usar siempre la misma plantilla para todos los procesos.
+3. **Asignación de responsabilidades**
+    - Cada área tiene un responsable de documentar sus procesos.
+    - Un líder de gestión revisa consistencia y actualizaciones.
+4. **Actualización continua**
+    - Cada proceso se revisa mínimo 1 vez al trimestre.
+    - Cambios se registran con fecha y número de versión.
+5. **Acceso al equipo**
+    - Lectura para todo el equipo.
+    - Edición solo para responsables de cada área.
+
+---
+
+## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
+
+Cómo sabemos que funciona.
+
+| Nombre | Descripción  | Medida |
+| --- | --- | --- |
+| % de procesos documentados | Cantidad de procesos bien documentados, todos los procesos deberían estar documentados. | 0% - 25%        Critico
+26% - 50%      Mejorable
+51% - 75%       Aceptable
+76% - 100%     Excelente |
+| % de procesos revisados en los últimos 3 meses | Cantidad de procesos revisados y actualizados en los últimos tres meses, todos los procesos se deberían actualizar cada tres meses. | 0% - 25%        Critico
+26% - 50%      Mejorable
+51% - 75%       Aceptable
+76% - 100%     Excelente |
+| **Nivel de uso del repositorio (engagement del equipo)** | Qué tanto se usa el repositorio de gestión y documentación en el equipo, el equipo debería usar siempre el repositorio. | Ningún uso
+Uso esporádico
+Uso completo  |
+| % de gestión y actualización de tareas en Notion | Que tanto se mantienen los tableros de tareas actualizados, el equipo debe mantener el tablero de tareas siempre actualizado. | 0% - 25%        Critico
+26% - 50%      Mejorable
+51% - 75%       Aceptable
+76% - 100%     Excelente |
+
+---
+
+## 🗓️ **Fecha de última actualización**
+
+ 11/09/2025.
+
+---
+
+## 🖊️ **Versión**
+
+1.0

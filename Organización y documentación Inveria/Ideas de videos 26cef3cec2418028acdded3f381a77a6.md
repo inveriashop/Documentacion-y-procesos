@@ -1,0 +1,13 @@
+# Ideas de videos
+
+Titular: Inveria
+
+```markdown
+🚨 Anotar cualquier idea que se nos venga a la mente, solo la idea general para tenerla guardada.
+```
+
+| Titulo | Producto(s) | Objetivo |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |

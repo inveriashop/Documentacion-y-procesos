@@ -1,0 +1,35 @@
+# KPIs de videos y redes sociales
+
+Titular: Inveria
+
+## Creación de guiones
+
+[Evaluación de creación de guiones](KPIs%20de%20videos%20y%20redes%20sociales%2026cef3cec24180bbaf8cd5210f0c229e/Evaluaci%C3%B3n%20de%20creaci%C3%B3n%20de%20guiones%2026cef3cec2418067943cc4092bd4bb35.md)
+
+26 de septiembre de 2025 
+
+---
+
+## Creación de videos
+
+[Evaluación de creación de videos](KPIs%20de%20videos%20y%20redes%20sociales%2026cef3cec24180bbaf8cd5210f0c229e/Evaluaci%C3%B3n%20de%20creaci%C3%B3n%20de%20videos%2026cef3cec24180398994f4ac1a4b66ab.md)
+
+26 de septiembre de 2025 
+
+---
+
+## Almacenamiento de contenido audio visual
+
+[Evaluación de almacenamiento de contenido audio visual](KPIs%20de%20videos%20y%20redes%20sociales%2026cef3cec24180bbaf8cd5210f0c229e/Evaluaci%C3%B3n%20de%20almacenamiento%20de%20contenido%20audio%20vi%2026cef3cec2418084887beb152649d0f7.md)
+
+26 de septiembre de 2025 
+
+---
+
+## Edición
+
+[Evaluación de edición](KPIs%20de%20videos%20y%20redes%20sociales%2026cef3cec24180bbaf8cd5210f0c229e/Evaluaci%C3%B3n%20de%20edici%C3%B3n%2026cef3cec241800c88abccfee32c388c.md)
+
+26 de septiembre de 2025 
+
+---
