@@ -11,21 +11,14 @@
             "id": "fb1af3522046d946",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Video 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Video 1"
             }
           }
         ]
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Video 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Untitled Kanban"
+              "title": "Enlaces entrantes de Video 1"
             }
           },
           {
@@ -120,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Video 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Untitled Kanban"
+              "title": "Enlaces salientes de Video 1"
             }
           },
           {
@@ -149,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Video 1.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Untitled Kanban"
+              "title": "Esquema de Video 1"
             }
           },
           {
@@ -190,8 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9cc26ac538eeff10",
+  "active": "fb1af3522046d946",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Sin título.canvas",
+    "Video 1.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Tutorial de Edición en Adobe Premiere 26cef3cec24180e09a12f0eedd0c448b.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Sin título 26cef3cec24180d88bd0d587d52c95d0.md",
     "Organización y documentación Inveria/Videos por hacer 26cef3cec24180bf86cffc18b52be6e2/Producción de Videos 26cef3cec241807ba46ee52b894bc74e/Entrevista con CEO - Visión 2026 26cef3cec24180c79beae8379dddd180.md",
@@ -221,12 +217,8 @@
     "Organización y documentación Inveria/KPIs de videos y redes sociales 26cef3cec24180bbaf8cd5210f0c229e",
     "Organización y documentación Inveria/KPIs de tienda online 26cef3cec2418057a225ca6428b1b2e7",
     "Organización y documentación Inveria/KPIs de tienda online 26cef3cec2418057a225ca6428b1b2e7.md",
-    "Organización y documentación Inveria/KPIs de gestión 26cef3cec24180f09725f816152821fb.md",
     "Organización y documentación Inveria/KPIs de gestión 26cef3cec24180f09725f816152821fb",
-    "Organización y documentación Inveria/Ideas de videos 26cef3cec2418028acdded3f381a77a6.md",
-    "Organización y documentación Inveria/Encuestas de satisfacción 26cef3cec24180008f80e47bdfb86d9f.md",
     "Organización y documentación Inveria",
-    "Sin título.canvas",
     "80280615-6f8f-40ab-8ddf-34b4ed87ae05_ExportBlock-fc587bfd-c155-4351-bc20-bb87966fa57a/ExportBlock-fc587bfd-c155-4351-bc20-bb87966fa57a-Part-1.zip",
     "80280615-6f8f-40ab-8ddf-34b4ed87ae05_ExportBlock-fc587bfd-c155-4351-bc20-bb87966fa57a"
   ]
