@@ -1,7 +1,3 @@
-# Evaluación de contabilidad
-
-Titular: Angie Hdez L.
-
 ## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
 
 | Nombre | Descripción  | Medida |

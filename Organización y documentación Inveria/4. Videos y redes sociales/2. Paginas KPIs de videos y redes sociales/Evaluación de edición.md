@@ -1,7 +1,3 @@
-# Evaluación de fidelización de clientes
-
-Titular: Inveria
-
 ## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
 
 | Nombre | Descripción  | Medida |

@@ -1,12 +1,8 @@
-# Evaluación de documentación y gestión de procesos
-
-Titular: Angie Hdez L.
-
 ## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
 
-| Nombre                     | Descripción                                                                             | Medida                  |
-| -------------------------- | --------------------------------------------------------------------------------------- | ----------------------- |
-| % de procesos documentados | Cantidad de procesos bien documentados, todos los procesos deberían estar documentados. | 0% - 25%        Critico |
+| Nombre | Descripción  | Medida |
+| --- | --- | --- |
+| % de procesos documentados | Cantidad de procesos bien documentados, todos los procesos deberían estar documentados. | 0% - 25%        Critico
 26% - 50%      Mejorable
 51% - 75%       Aceptable
 76% - 100%     Excelente |

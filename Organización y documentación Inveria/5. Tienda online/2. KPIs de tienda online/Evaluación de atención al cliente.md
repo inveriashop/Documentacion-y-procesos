@@ -1,7 +1,3 @@
-# Evaluación de creación de videos
-
-Titular: Inveria
-
 ## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
 
 | Nombre | Descripción  | Medida |
