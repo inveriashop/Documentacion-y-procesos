@@ -2,11 +2,14 @@
 .obsidian/workspace.json
 .obsidian/appearance.json
 .obsidian/hotkeys.json
+.community-plugins.json
+.core-plugins.json
+.app.json
+.graph.json
+.appearance.json
 
 # Ignorar plugins (cada quien instala los suyos)
 .obsidian/plugins/
 
 # Solo mantener snippets
 !.obsidian/snippets/
-
-/Página de inicio.md
