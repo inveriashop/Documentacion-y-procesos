@@ -2,11 +2,11 @@
 .obsidian/workspace.json
 .obsidian/appearance.json
 .obsidian/hotkeys.json
-.community-plugins.json
-.core-plugins.json
-.app.json
-.graph.json
-.appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/appearance.json
 
 # Ignorar plugins (cada quien instala los suyos)
 .obsidian/plugins/
