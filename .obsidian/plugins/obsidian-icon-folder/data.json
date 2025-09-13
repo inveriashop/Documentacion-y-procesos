@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHouse",
       "📂",
       "⚙",
       "🏠",
-      "📸",
-      "🛒"
+      "📸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Organización y documentación Inveria/5. Tienda online": "🛒",
   "Organización y documentación Inveria/4. Videos y redes sociales": "📸",
   "Organización y documentación Inveria/3. Gestion": "⚙",
-  "Organización y documentación Inveria/2. Documentacion de procesos": "📂"
+  "Organización y documentación Inveria/2. Documentacion de procesos": "📂",
+  "Organización y documentación Inveria/1. Pagina de inicio/1. Página de inicio.md": "LiHouse"
 }
