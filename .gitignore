@@ -13,3 +13,6 @@
 
 # Solo mantener snippets
 !.obsidian/snippets/
+
+# Pero mantener el de icon-folder
+!.obsidian/plugins/obsidian-icon-folder/
