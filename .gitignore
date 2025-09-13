@@ -4,7 +4,7 @@
 .obsidian/hotkeys.json
 
 # Ignorar plugins (cada quien instala los suyos)
-.obsidian/plugins/*
+.obsidian/plugins/
 
 # Solo mantener snippets
 !.obsidian/snippets/

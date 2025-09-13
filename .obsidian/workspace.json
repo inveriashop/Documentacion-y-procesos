@@ -150,16 +150,6 @@
               "icon": "lucide-list",
               "title": "Esquema de Página de inicio"
             }
-          },
-          {
-            "id": "9cc26ac538eeff10",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
