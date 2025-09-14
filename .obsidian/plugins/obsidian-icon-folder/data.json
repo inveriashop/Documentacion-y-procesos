@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHouse",
-      "📂",
-      "⚙",
-      "🏠",
-      "📸"
+      "LiClipboardList",
+      "LiFileBadge",
+      "LiFileCog2",
+      "LiFileSpreadsheet",
+      "LiChartNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,24 @@
   "Organización y documentación Inveria/4. Videos y redes sociales": "📸",
   "Organización y documentación Inveria/3. Gestion": "⚙",
   "Organización y documentación Inveria/2. Documentacion de procesos": "📂",
-  "Organización y documentación Inveria/1. Pagina de inicio/1. Página de inicio.md": "LiHouse"
+  "Organización y documentación Inveria/1. Pagina de inicio/1. Página de inicio.md": "LiHouse",
+  "Organización y documentación Inveria/2. Documentacion de procesos/1. Documentación y gestión de procesos.md": "LiFolderCog",
+  "Organización y documentación Inveria/2. Documentacion de procesos/2. Creación de guiones.md": "LiClipboardEdit",
+  "Organización y documentación Inveria/2. Documentacion de procesos/3. Creación de videos.md": "LiVideo",
+  "Organización y documentación Inveria/2. Documentacion de procesos/4. Almacenamiento de contenido audio visual.md": "LiSaveAll",
+  "Organización y documentación Inveria/2. Documentacion de procesos/5. Edición.md": "LiFileVideo2",
+  "Organización y documentación Inveria/2. Documentacion de procesos/6. Creación de imágenes.md": "LiImage",
+  "Organización y documentación Inveria/2. Documentacion de procesos/7. Revisión y mejora continua (KPIs).md": "LiChartNoAxesCombined",
+  "Organización y documentación Inveria/2. Documentacion de procesos/8. Atención al cliente.md": "LiHandshake",
+  "Organización y documentación Inveria/2. Documentacion de procesos/9. Contabilidad.md": "LiCalculator",
+  "Organización y documentación Inveria/2. Documentacion de procesos/10. Devoluciones y garantías.md": "LiPackageCheck",
+  "Organización y documentación Inveria/2. Documentacion de procesos/11. Encuestas de satisfacción.md": "LiFileChartColumn",
+  "Organización y documentación Inveria/2. Documentacion de procesos/12. Fidelización de clientes.md": "LiHeartHandshake",
+  "Organización y documentación Inveria/3. Gestion/1. Listas de tareas": "LiListChecks",
+  "Organización y documentación Inveria/3. Gestion/1. Listas de tareas/1. Lista general.md": "LiListTodo",
+  "Organización y documentación Inveria/3. Gestion/2. Paginas KPIs de gestión": "LiChartNetwork",
+  "Organización y documentación Inveria/3. Gestion/2. Paginas KPIs de gestión/Evaluación de contabilidad.md": "LiFileSpreadsheet",
+  "Organización y documentación Inveria/3. Gestion/2. Paginas KPIs de gestión/Evaluación de documentación y gestión de procesos.md": "LiFileCog2",
+  "Organización y documentación Inveria/3. Gestion/2. Paginas KPIs de gestión/Evaluación de revisión y mejora continua.md": "LiFileBadge",
+  "Organización y documentación Inveria/3. Gestion/3. Paginas de tareas": "LiClipboardList"
 }
