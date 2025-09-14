@@ -6,19 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-<<<<<<< HEAD
       "LiFolderCog",
       "LiClipboardList",
       "LiFileBadge",
       "LiFileCog2",
       "LiFileSpreadsheet"
-=======
       "LiFileVideo",
       "LiListVideo",
       "LiClipboardList",
       "LiFileHeart",
       "LiFileCheck"
->>>>>>> 14a0eca21974b3af61c841cb0943f066be94f3cb
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
