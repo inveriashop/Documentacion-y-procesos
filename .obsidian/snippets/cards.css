@@ -1,31 +1,113 @@
-.cards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  margin-top: 20px;
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;transition: transform 0.2s ease;
 }
 
 .card {
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 15px;
-  text-align: center;
-  background: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
+  width: 210px;
+  border-radius: 0px 0px 15px 15px;
+  overflow: hidden; /* une bordes sin espacios */
+  background: #1c1c1c;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.25); 
+  margin-bottom: 20px;
+  min-height: 130px;
+  align-content: center !important;
 }
 
-.card:hover {
+.card-content:hover {
   transform: translateY(-5px);
 }
 
-.card img {
-  max-width: 100%;
-  border-radius: 8px;
-  margin-bottom: 10px;
+.card-img {
+  width: 210px;
+  min-height: 140px;
+  border-radius: 15px 15px 0px 0px;
+  object-fit: cover; /* cubre toda el área sin deformar */
+  margin-left: 10px;
 }
 
-.card h3 {
-  margin: 5px 0;
-  font-size: 1.2em;
+.card-body {
+  padding: 0px;
+  text-align: left;
+  align-content: center !important;
 }
+
+.card-title {
+  display: flex;
+  align-items: center !important;
+  justify-content: center;
+  gap: 2px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.85em;
+  text-align: left;
+}
+
+.card-icon {
+  margin-right: 8px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.card-icon .cm-iconize-icon svg {
+  width: 20px !important;   /* ajusta al tamaño que quieras */
+  height: 20px !important;
+}
+
+.process-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.colsContainer {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 60px;
+  justify-content: space-between;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  color: #aeb6bf;
+  transition: transform 0.2s ease;
+}
+
+a:hover {
+  text-decoration: none;
+  transform: translateY(-3px);
+  color: #3e7af1;
+}
+
+h2 {
+  color: #db9d47;
+}
+
+.process-container {
+  margin-top: 50px;
+}
+
+.link-items {
+  align-items: center;
+}
+
+.link-icon {
+  width: 16px;
+  padding-top: 8px;
+}
+
+
+

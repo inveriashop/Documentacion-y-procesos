@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolderCog",
       "LiClipboardList",
       "LiFileBadge",
       "LiFileCog2",
-      "LiFileSpreadsheet",
-      "LiChartNetwork"
+      "LiFileSpreadsheet"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
