@@ -1,4 +1,4 @@
-## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
+## 📈 KPIs / Métricas de control
 
 | Nombre                                               | Descripción                                                                                                                         | Medida                                                                                                                                                                                                   |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8,16 +8,14 @@
 | % de gestión y actualización de tareas en Obsidian   | Que tanto se mantienen los tableros de tareas actualizados, el equipo debe mantener el tablero de tareas siempre actualizado.       | 0% - 25% <mark class="hltr-r"> Critico </mark><br>26% - 50% <mark class="hltr-o"> Mejorable </mark> 51% - 75% <mark class="hltr-b"> Aceptable </mark> 76% - 100% <mark class="hltr-g"> Excelente </mark> |
 
 ---
-
-## 📝 **Plan de mejora**
+## 📝 Plan de mejora
 
 Descripción
 
-- [ ]  Primer mejora
-- [ ]  Segunda mejora
+- [ ] Primer mejora
+- [ ] Segunda mejora
 
 ---
-
 ## 📌 Nota
 
 Descripción

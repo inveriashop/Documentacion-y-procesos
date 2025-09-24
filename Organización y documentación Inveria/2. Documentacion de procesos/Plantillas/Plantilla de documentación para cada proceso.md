@@ -30,24 +30,24 @@ Drive, Canva, etc.
 | Paso 2… |  |  |
 
 
-- Paso 1… Decripción  
+- Paso 1… Descripción  
     
-- Paso 2… Decripción  
+- Paso 2… Descripción  
     
 
 ---
 
-## [**📈](https://emojiterra.com/es/grafico-tendencia-ascendente/) KPIs / Métricas de control**
+## 📈 KPIs / Métricas de control
 
 Cómo sabemos que funciona.
 
-| Nombre                                                   | Descripción | Medida |
-| -------------------------------------------------------- | ----------- | ------ |
-| % de procesos documentados                               |             |        |
-| % de procesos revisados en los últimos 3 meses           |             |        |
-| **Nivel de uso del repositorio (engagement del equipo)** |             |        |
-| % de gestión y actualización de tareas en Obsidian       |             |        |
-|                                                          |             |        |
+| Nombre                                               | Descripción | Medida |
+| ---------------------------------------------------- | ----------- | ------ |
+| % de procesos documentados                           |             |        |
+| % de procesos revisados en los últimos 3 meses       |             |        |
+| Nivel de uso del repositorio (engagement del equipo) |             |        |
+| % de gestión y actualización de tareas en Obsidian   |             |        |
+|                                                      |             |        |
 
 | Nombre                                               | Descripción                                                                                                                         | Medida                                                                                                                                                                                                   |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
