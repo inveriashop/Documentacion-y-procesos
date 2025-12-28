@@ -42,3 +42,4 @@
     - "CTA: Etiqueta a tu amigo el que siempre pierde en Monopoly" (Escena 7).
 - **Animaciones:** Pop-ups de iconos de pandas o corazones cuando se contrata un panda. Un efecto de vibración roja cuando sale el 7.
 - **Transiciones:** Cortes rápidos al ritmo de la música. Un "zoom-in" suave cuando se muestran los detalles de las cartas.
+- 
