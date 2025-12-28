@@ -3,8 +3,8 @@
 - **Título del video:** El sustituto definitivo del Monopoly: Villa Panda.
 - **Objetivo del contenido:** Presentar Villa Panda como la evolución lógica y divertida para quienes aman el Monopoly pero buscan algo más moderno y estratégico.
 - **Plataforma de publicación:** Instagram / TikTok / YouTube Shorts.
+- 
 ---
-
 ## 2. Bloque de Video (Imagen/Grabación visual)
 
 - **Escena 1:** Primer plano del creador con cara de frustración frente a un tablero de Monopoly desordenado. Transición rápida (jump cut) a una mesa colorida con el tablero de **Villa Panda** desplegado y lleno de pandas.
@@ -16,7 +16,6 @@
 - **Escena 7:** El creador sosteniendo la caja del juego y sonriendo, invitando a jugar.
 
 ---
-
 ## 3. Bloque de Audio (Narración, voces, música)
 
 - **Escena 1:** "¿Cansado de que las partidas de Monopoly duren 5 horas y terminen en pelea familiar? Tengo la solución."
@@ -29,7 +28,6 @@
 - **Música:** Un beat de lo-fi movido o música tipo "Nintendo" (alegre y rítmica) que suba de volumen en las transiciones.
 
 ---
-
 ## 4. Bloque de Otros (Recursos adicionales y edición)
 
 - **Textos en pantalla:**
