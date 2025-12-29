@@ -4,6 +4,7 @@
 - **Objetivo del contenido:** Presentar Villa Panda como la evolución lógica y divertida para quienes aman el Monopoly pero buscan algo más moderno y estratégico.
 - **Plataforma de publicación:** Instagram / TikTok / YouTube Shorts.
 
+
 ---
 ## 2. Bloque de Video (Imagen/Grabación visual)
 
