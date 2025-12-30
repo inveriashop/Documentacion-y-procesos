@@ -27,7 +27,7 @@
 - **Escena 4:** "Aquí es donde entran las cartas de sabotaje. ¿Alguien va ganando? Tírale un **Ají** o un tomator para desarmar sus platos."
 - **Escena 5:** "Usa **a paltricia y aguacaldo** para agrandar tus platos o a **Onion musk** para obtener nuevos ingredientes. ¡Tienes que arreglar esos platos que te danaron!"
 - **Escena 6:** "Es el juego ideal para esas reuniones donde quieres que la tensión (y las risas) lleguen al máximo nivel."
-- **Escena 7:** "Busca el tuyo en nuestra tienda antes de que se agoten. Y etiqueta aquí abajo a ese amigo al que le tirarías un Ají sin pensarlo."
+- **Escena 7:** "Etiqueta a tu amigo el traicionero y busca el tuyo en nuestra tienda antes de que se agoten. Y etiqueta aquí abajo a ese amigo al que le tirarías un Ají sin pensarlo."
 - **Música:** Empieza con una música mexicana alegre (tipo mariachi) que de repente se transforma en un beat de "Trap" pesado o música de suspenso cuando empieza el sabotaje.
 
 ---
@@ -36,9 +36,9 @@
 
 - **Textos en pantalla:**
     - "¡PELIGRO: ROMPE AMISTADES! 🚫🤝" (Escena 1).
-    - "Mecánica: Sabotaje total 😈" (Escena 3).
-    - "Cuidado con el PICANTE 🌶️" (Escena 3).
-    - "¡Taggea a tu amigo el traicionero! 👇" (Escena 6).
+    - "Mecánica: Sabotaje total 😈" (Escena 4).
+    - "Cuidado con el PICANTE 🌶️" (Escena 4).
+    - "¡Taggea a tu amigo el traicionero! 👇" (Escena 7).
 - **Animaciones:**
     - Un filtro de "fuego" en los ojos del creador cuando menciona el Ají.
     - Efecto de pantalla temblando cuando se lanza la carta de sabotaje.
