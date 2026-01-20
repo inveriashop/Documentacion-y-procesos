@@ -20,12 +20,10 @@
 ## 3. **Bloque de Audio (Narración)**
 
 - **Escena 1:** "¡Fanáticos del ramen coreano! La espera terminó. Aterrizaron en **Inveria Shop** tres sabores increíbles de la famosa marca **NongShim**."
-- **Escena 2:** "1. **El Original Picante**. El sabor auténtico de Corea. Un caldo intenso, picante y lleno de sabor que nunca falla. El clásico que todos aman."
-- **Escena 3:** "2. **Crema Picante**. La combinación perfecta. El picante de siempre pero suavizado con una textura cremosa que lo hace adictivo."
-- **Escena 4:** "3. **Queso Picante**. ¿Amante del queso? Este trae ese toque extra que nos encanta a los amantes del queso."
-- **Escena 5:** "¿Con cuál te quedas hoy? ¿El clásico intenso, el cremoso suave o la explosión de queso?"
-- **Escena 6:** "No te quedes con las ganas de probar el verdadero sabor coreano. ¡Disponibles ya en nuestra tienda física y online!"
-- **Música:** Un tema de K-Pop alegre o un beat Lo-Fi asiático que sea dinámico pero no demasiado agresivo.
+- **Escena 2:** "1. **El shin ramyun Original** Un clasico que todos deben probar. Un picante intenso lleno de sabor que nunca falla."
+- **Escena 3:** "2. **EL toomba Crema Picante**. El picante que tanto nos gusta pero suavizado con una textura cremosa que lo hace adictivo."
+- **Escena 4:** "3. **Y el viral Buldak de carbonara**. Este definitivamente no puedes quedarte sin probarlo"
+- **Escena 5:** "¿Cuál quieres probar hoy? Escribenos o compra en nuestra pagina web inveriashop.com."
 
 ---
 
